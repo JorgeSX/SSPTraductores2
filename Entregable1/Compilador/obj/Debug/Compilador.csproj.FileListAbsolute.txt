@@ -1,0 +1,10 @@
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csprojResolveAssemblyReference.cache
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.Principal.resources
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.Properties.Resources.resources
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.GenerateResource.Cache
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe.config
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\bin\Debug\Compilador.exe
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\bin\Debug\Compilador.pdb
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.exe
+S:\Documentos\Escuela\SSP Traductores 2\Compilador\Compilador\obj\Debug\Compilador.pdb
